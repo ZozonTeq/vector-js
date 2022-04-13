@@ -1,2 +1,2 @@
 # vector-js
-ベクトル
+Unityの Vector2 Vector3とかのjsバージョン
